@@ -25,7 +25,7 @@ Working Groups includes Common Metrics WG, Diversity & Inclusion WG, Evolution, 
 
 The handbook should serve as an instruction manual for existing and new community members on how to get work done in the CHAOSS project. This project involves a creative component of collecting and organizing content for the handbook as well as a technical component of defining how to represent the handbook.
 
-**Mentors:** [Georg J.P.link](https://github.com/GeorgLink), [Matt Germonprez](https://github.com/GeorgLink), [Armstrong Foundjem](https://github.com/foundjem)
+**Mentors:** [Georg J.P.link](https://github.com/GeorgLink), [Matt Germonprez](https://github.com/germonprez), [Armstrong Foundjem](https://github.com/foundjem)
 
 > **NOTE:** There are some tags used below which have got the following meanings.
 > * `Pending`: The work is in progress and is under development due to current state.
