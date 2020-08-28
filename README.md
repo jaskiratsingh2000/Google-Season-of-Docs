@@ -75,4 +75,4 @@ The handbook should serve as an instruction manual for existing and new communit
 - [Give a follow on GitHub](https://github.com/jaskiratsingh2000)
 - [Follow me at Twitter](https://twitter.com/jaskirat626)
 
-[![https://img.shields.io/badge/Made%20With%20%E2%9D%A4%EF%B8%8F%20By-Jaskirat-red)](https://github.com/jaskiratsingh2000)
+[![](https://img.shields.io/badge/Made%20With%20❤️%20By-Jaskirat-red)](https://github.com/jaskiratsingh2000)
