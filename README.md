@@ -52,3 +52,18 @@ The handbook should serve as an instruction manual for existing and new communit
 
 ### Final Verdict
 :parachute: Final Evaluation Period (November 30, 2020 - December 5, 2020): **`Yet To be Done`**
+
+### Commits 
+* [Commits done on gitbook-test repository](https://github.com/chaoss/gitbook-test/commits?author=jaskiratsingh2000): This contains all my GitHub commits made on the [gitbook-test](https://github.com/chaoss/gitbook-test) repository in-accordance with GitBook platform.
+
+### Repository URL
+[gitbook-test](https://github.com/chaoss/gitbook-test)
+
+### Links
+* [GSoD 2020 CHAOSS Proposal - Jaskirat SIngh]()
+* [Project Link](https://developers.google.com/season-of-docs/docs/participants/project-linuxfoundation-jaskiratsingh2000) on GSoD website
+
+### Footnotes
+* We have weekly meetings over google meet on every thursday at 7:30 am IST
+* I will be writing the blogs every week
+* I will be writing my daily basis scrum documentation in respective week file
