@@ -69,3 +69,10 @@ The handbook should serve as an instruction manual for existing and new communit
 * We have weekly meetings over google meet on every thursday at 7:30 pm IST
 * I will be writing the blogs every week
 * I will be writing my daily basis scrum documentation in respective week file
+
+### Want to connect with me?
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/jaskiratsingh2000/)
+- [Give a follow on GitHub](https://github.com/jaskiratsingh2000)
+- [Follow me at Twitter](https://twitter.com/jaskirat626)
+
+[](https://img.shields.io/badge/Made%20With%20%E2%9D%A4%EF%B8%8F%20By-Jaskirat-red)
