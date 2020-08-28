@@ -28,5 +28,5 @@
 Attended :heavy_check_mark: the first official GSoD Meeting: GSoD office hours with mentors and meeting notes can be found **[here](https://github.com/jaskiratsingh2000/Google-Season-of-Docs/blob/master/Meetings%20-%20GSoD%20Office%20Hours/Meet-1-2020-08-27.md)**
 
 ### Day 4
-* Finalized the “Working Groups” page
+* Finalized the “**Working Groups**” page
 * Made the **[Google Season of Docs tracker on the GitHub](https://github.com/jaskiratsingh2000/Google-Season-of-Docs)**
