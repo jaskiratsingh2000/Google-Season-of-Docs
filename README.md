@@ -49,3 +49,6 @@ The handbook should serve as an instruction manual for existing and new communit
 * Week 13 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 13]() **`Yet To be Done`**
 * Week 14 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 14]() **`Yet To be Done`**
 * Week 15 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 15]() **`Yet To be Done`**
+
+### Final Verdict
+:parachute: Final Evaluation Period (November 30, 2020 - December 5, 2020): **`Yet To be Done`**
