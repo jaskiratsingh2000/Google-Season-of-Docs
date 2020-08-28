@@ -25,6 +25,10 @@ The handbook should serve as an instruction manual for existing and new communit
 
 **Mentors:** [Georg J.P.link](https://github.com/GeorgLink), [Matt Germonprez](https://github.com/GeorgLink), [Armstrong Foundjem](https://github.com/foundjem)
 
+> **NOTE:** There are some tags used below which have got the following meanings.
+> * `Pending`: The work is in progress and is under development due to current state.
+> * `Yet To Be Done`: This indicates that it will be done in the future as it is yet to be implemented
+
 ### Weekly Updates
 
 #### Community bonding (August 17, 2020 - September 13, 2020)
