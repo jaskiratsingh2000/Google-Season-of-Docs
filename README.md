@@ -29,19 +29,19 @@ The handbook should serve as an instruction manual for existing and new communit
 
 #### Community bonding (August 17, 2020 - September 13, 2020)
 * Week 1 - Weekly Summary: [Weekly Report](https://github.com/jaskiratsingh2000/Google-Season-of-Docs/blob/master/Reports/Community%20Bonding%20Phase/Week-1.md) | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 1](https://medium.com/@jaskiratsingh2000/google-season-of-docs-chaoss-project-under-the-linux-foundation-week-1-4b793e2b52f9)
-* Week 2 - Weekly Summary: [Weekly Report](https://github.com/jaskiratsingh2000/Google-Season-of-Docs/blob/master/Reports/Community%20Bonding%20Phase/Week-2.md) | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 2]() **`PENDING`**:hourglass_flowing_sand:
-* Week 3 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 3]() **YET TO BE DONE :hourglass_flowing_sand:**
-* Week 4 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 4]() **PENDING :hourglass_flowing_sand:**
+* Week 2 - Weekly Summary: [Weekly Report](https://github.com/jaskiratsingh2000/Google-Season-of-Docs/blob/master/Reports/Community%20Bonding%20Phase/Week-2.md) | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 2]() **`Pending`**:hourglass_flowing_sand:
+* Week 3 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 3]() **`Yet To be Done`**
+* Week 4 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 4]() **`Yet To be Done`**
 
 #### Doc Development (September 14, 2020 - November 30, 2020)
-* Week 5 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 5]() **PENDING :hourglass_flowing_sand:**
-* Week 6 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 6]() **PENDING :hourglass_flowing_sand:**
-* Week 7 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 7]() **PENDING :hourglass_flowing_sand:**
-* Week 8 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 8]() **PENDING :hourglass_flowing_sand:**
-* Week 9 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 9]() **PENDING :hourglass_flowing_sand:**
-* Week 10 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 10]() **PENDING :hourglass_flowing_sand:**
-* Week 11 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 11]() **PENDING :hourglass_flowing_sand:**
-* Week 12 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 12]() **PENDING :hourglass_flowing_sand:**
-* Week 13 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 13]() **PENDING :hourglass_flowing_sand:**
-* Week 14 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 14]() **PENDING :hourglass_flowing_sand:**
-* Week 15 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 15]() **PENDING :hourglass_flowing_sand:**
+* Week 5 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 5]() **`Yet To be Done`**
+* Week 6 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 6]() **`Yet To be Done`**
+* Week 7 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 7]() **`Yet To be Done`**
+* Week 8 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 8]() **`Yet To be Done`**
+* Week 9 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 9]() **`Yet To be Done`**
+* Week 10 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 10]() **`Yet To be Done`**
+* Week 11 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 11]() **`Yet To be Done`**
+* Week 12 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 12]() **`Yet To be Done`**
+* Week 13 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 13]() **`Yet To be Done`**
+* Week 14 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 14]() **`Yet To be Done`**
+* Week 15 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 15]() **`Yet To be Done`**
