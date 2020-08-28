@@ -13,6 +13,8 @@
 	<a href="#project-abstract">Project Abstract</a> |
 	<a href="https://github.com/vchrombie/gsoc/issues?q=is%3Aissue">Discussions</a> |
 	<a href="#weekly-updates">Weekly Updates</a> |
+	<a href="#final-verdicts">Final Verdicts</a> |
+	<a href="#commits">Commits</a> |
 	<a href="#links">Links</a>
 </p>
 
@@ -64,6 +66,6 @@ The handbook should serve as an instruction manual for existing and new communit
 * [Project Link](https://developers.google.com/season-of-docs/docs/participants/project-linuxfoundation-jaskiratsingh2000) on GSoD website
 
 ### Footnotes
-* We have weekly meetings over google meet on every thursday at 7:30 am IST
+* We have weekly meetings over google meet on every thursday at 7:30 pm IST
 * I will be writing the blogs every week
 * I will be writing my daily basis scrum documentation in respective week file
