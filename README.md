@@ -62,7 +62,7 @@ The handbook should serve as an instruction manual for existing and new communit
 [gitbook-test](https://github.com/chaoss/gitbook-test)
 
 ### Links
-* [GSoD 2020 CHAOSS Proposal - Jaskirat SIngh]()
+* [GSoD 2020 CHAOSS Proposal - Jaskirat SIngh](https://github.com/jaskiratsingh2000/Google-Season-of-Docs/blob/master/GSoD%202020%20CHAOSS%20Proposal%20-%20Jaskirat%20Singh.pdf)
 * [Project Link](https://developers.google.com/season-of-docs/docs/participants/project-linuxfoundation-jaskiratsingh2000) on GSoD website
 
 ### Footnotes
