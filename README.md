@@ -65,6 +65,8 @@ The handbook should serve as an instruction manual for existing and new communit
 * [GSoD 2020 CHAOSS Proposal - Jaskirat SIngh](https://github.com/jaskiratsingh2000/Google-Season-of-Docs/blob/master/GSoD%202020%20CHAOSS%20Proposal%20-%20Jaskirat%20Singh.pdf)
 * [Project Link](https://developers.google.com/season-of-docs/docs/participants/project-linuxfoundation-jaskiratsingh2000) on GSoD website
 
+<img align="right" alt="GIF" src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400" />
+
 ### Footnotes
 * We have weekly meetings over google meet on every thursday at 7:30 pm IST
 * I will be writing the blogs every week
