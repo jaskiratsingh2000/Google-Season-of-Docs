@@ -30,3 +30,16 @@ Attended :heavy_check_mark: the first official GSoD Meeting: GSoD office hours w
 ### Day 4
 * Finalized the “**Working Groups**” page
 * Made the **[Google Season of Docs tracker on the GitHub](https://github.com/jaskiratsingh2000/Google-Season-of-Docs)**
+* Sent the email to the CHAOSS mailing list with subject - “*Working Groups information within Community Handbook*”
+
+### Day 5
+* Finalised and setting up the pending work within the Google Season of Docs tracker on github
+* Tried to reframe the Leadership roles within the CHAOSS
+
+### Day 6-7
+* Researched on the “Path to Leadership” section for the community handbook
+* Read some articles defining the leadership in open source communities
+* Tried to figure out important key points that needs to be mentioned within the community handbook for this section
+* Wrote an email to the CHAOSS mailing list, asking for some reference context in this regard with the subject line - “*Path to Leadership - context for Community Handbook*”
+* Figured out context: What leadership means to the CHAOSS community? Why it is important for us? Processes for availing the following leaderships Technical Leadership - Processes for "Repo Maintainers", "Documentation Maintainers ", and "Website Maintainers" Governance Maintainers - Pathway for "Board members" and "Decision Makers" Operational Maintainers - Pathway for the Community manager, Best practices for being the leader
+
