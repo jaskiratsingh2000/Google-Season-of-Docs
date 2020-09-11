@@ -1,3 +1,8 @@
+> **NOTE:** There are some emoji icons used below which have got the following meanings:
+> * :heavy_check_mark: - The goal has been achieved and it is completed The work is in progress and is under development due to current state.
+> * :hourglass_flowing_sand: This indicates that the work is in progress and moving towards the copmpletion
+<br>
+<h1 align="center">Work Timeline</h1><br>
 
 | Goals | Time Period | Completed | Remarks by Me | Remarks by Mentors |
 | :---: | :---------: | :-------: | :-----------: | :----------------: |
