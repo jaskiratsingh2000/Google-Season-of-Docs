@@ -40,7 +40,7 @@ The handbook should serve as an instruction manual for existing and new communit
 * Week 4 - Weekly Summary: [Weekly Report](https://github.com/jaskiratsingh2000/Google-Season-of-Docs/blob/master/Reports/Community%20Bonding%20Phase/Week-4.md) | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 4](https://medium.com/@jaskiratsingh2000/google-season-of-docs-chaoss-project-under-the-linux-foundation-week-4-3e3922fced05)
 
 #### Doc Development (September 14, 2020 - November 30, 2020)
-* Week 5 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 5](https://medium.com/@jaskiratsingh2000/google-season-of-docs-chaoss-project-under-the-linux-foundation-week-5-c14f5b960c99)
+* Week 5 - Weekly Summary: [Weekly Report](https://github.com/jaskiratsingh2000/Google-Season-of-Docs/blob/master/Reports/Doc%20Development%20Phase/Week-5.md) | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 5](https://medium.com/@jaskiratsingh2000/google-season-of-docs-chaoss-project-under-the-linux-foundation-week-5-c14f5b960c99)
 * Week 6 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 6]() **`Pending`**:hourglass_flowing_sand:
 * Week 7 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 7]() **`Yet To be Done`**
 * Week 8 - Weekly Summary: [Weekly Report]() | Blog Post: [Google Season of Docs: CHAOSS Project under The Linux Foundation — Week 8]() **`Yet To be Done`**
