@@ -3,18 +3,18 @@
 
 ### Day 1
 * Started writing the weekly blog post for week 4
-* Wrote about “Involving as a Student” under the Google Summer of Code section within the handbook
+* Wrote about “Involving as a Student” :man_in_tuxedo: under the Google Summer of Code section within the handbook
 * Understood the Responsibilities of the Mentors
 * Wrote about “Involving as a Mentor” section under the Google Summer of Code within the handbook
 
 ### Day 2
 * Researched around Google Season of Docs section under the Mentorship
-* Wrote about Google Season of Docs section - "Involving as a Student" and "Involving as a Student"
+* Wrote about Google Season of Docs section - "Involving as a Student" :man_in_tuxedo: and "Involving as a Mentor" :busts_in_silhouette:
 * Completed the Blog Post for Week 4
 
 ### Day 3
 * Researched around the Outreachy program
-* Surf on the Outreachy website and the CHAOSS Project
+* Surf on the Outreachy website and the CHAOSS Project :clock2:
 * Wrote an email to the community with a subject line - “*GSoC and GSoD pages in the Gitbook*”
 * Added the "About" Section and "Eligibility rules" of the Outreachy
 
