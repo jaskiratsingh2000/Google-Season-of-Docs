@@ -1,4 +1,4 @@
-## Community Bonding Week-6 Summary
+## Community Bonding Week-7 Summary
 > I worked on the "Development Guidelines" and some part of the "Documentation Guidelines" in this week.
 
 ### Day 1
